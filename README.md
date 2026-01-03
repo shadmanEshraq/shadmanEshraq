@@ -1,8 +1,10 @@
-## Hi there 👋
+# Hello Everyone 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+I am Shadman. I studied Electrical Engineering and worked for a while in the energy industry (utility side). Now interested in Data Science/ Data Analytics.
+
+- 🔭 I’m currently working on obtaining **Power BI Data Analyst Associate** certification from Microsoft.
+- 🌱 I’m currently learning Power BI and Python in depth.
+- ⚡ Fun fact: Love to read, write and photograph. Running a hobby YouTube channel.
 
 <!-- Comment
 **shadmanEshraq/shadmanEshraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
