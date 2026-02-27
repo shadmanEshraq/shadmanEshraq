@@ -4,7 +4,7 @@ I am Shadman. Now more inclined towards Data Science/ Data Analytics. Previously
 
 - 🔭 Recently (Feb/ 2026) obtained the **Power BI Data Analyst Associate (PL - 300)** certification from Microsoft.
 - 🌱 I’m currently learning Power BI and Python in depth.
-- ⚡ Fun fact: Love to read, write, and photograph. Running a hobby YouTube channel.
+- ⚡ Fun fact: Love to read, write, and photograph.
 
 <!-- Comment
 **shadmanEshraq/shadmanEshraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
