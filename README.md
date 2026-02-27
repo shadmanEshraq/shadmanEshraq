@@ -1,10 +1,10 @@
 # Hello Everyone 👋
 
-I am Shadman. I studied Electrical Engineering and worked for a while in the energy industry (utility side). Now interested in Data Science/ Data Analytics.
+I am Shadman. Now more inclined towards Data Science/ Data Analytics. Previously, I worked in the energy industry (on the utility side) after obtaining an undergraduate degree in EEE.
 
-- 🔭 I’m currently working on obtaining **Power BI Data Analyst Associate** certification from Microsoft.
+- 🔭 Recently (Feb/ 2026) obtained the **Power BI Data Analyst Associate (PL - 300)** certification from Microsoft.
 - 🌱 I’m currently learning Power BI and Python in depth.
-- ⚡ Fun fact: Love to read, write and photograph. Running a hobby YouTube channel.
+- ⚡ Fun fact: Love to read, write, and photograph. Running a hobby YouTube channel.
 
 <!-- Comment
 **shadmanEshraq/shadmanEshraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
