@@ -2,11 +2,11 @@
 
 I am Shadman. Now more inclined towards Data Science/ Data Analytics. Previously, I worked in the energy industry (on the utility side) after obtaining an undergraduate degree in EEE.
 
-- 🔭 Recently (Feb/ 2026) obtained the **Power BI Data Analyst Associate (PL - 300)** certification from Microsoft.
-- 🌱 I’m currently learning Power BI and Python in depth.
-- ⚡ Fun fact: Love to read, write, and photograph.
+- 🌱 **(May/ 2026)** I’m currently learning *PyTorch* to make something interesting.
+- 🔭 **(Feb/ 2026)** obtained the **Power BI Data Analyst Associate (PL - 300)** certification from Microsoft.
+- ⚡ Love to read, write, and photograph.
 
-<!-- Comment
+<!-- Comment Start
 **shadmanEshraq/shadmanEshraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+Comment End -->
