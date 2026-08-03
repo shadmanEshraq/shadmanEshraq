@@ -1,8 +1,13 @@
 # Hello Everyone 👋
 
-I am Shadman. Now more inclined towards Data Science/ Data Analytics. Previously, I worked in the energy industry (on the utility side) after obtaining an undergraduate degree in EEE.
+I am Shadman. I have a Bachelor's and a Master's Degree in Electrical Engineering. Now more inclined towards Data Science/ Data Analytics. Mostly Self taught in Analytics - I understand and acknowledge that theory/ formal schooling provides valuable insights. However, human beings learn some things best by doing stuff and making a few mistakes along the way !  
 
-- 🌱 **(May/ 2026)** I’m currently learning *PyTorch* to make something interesting.
+Moreover, I have worked for a while in the energy industry of Bangladesh <img src="https://flagcdn.com/bd.svg" width="20" alt="Bangladesh Flag"> (on the utility side) .
+
+- 🌱 **(Summer/ 2026)** I’m currently working on an Regression Problem involving *Decision Trees* .
+- 🌱 **(Summer/ 2026)** Currently learning *Business German* <img src="https://flagcdn.com/de.svg" width="20" alt="Germany Flag">
+
+
 - 🔭 **(Feb/ 2026)** obtained the **Power BI Data Analyst Associate (PL - 300)** certification from Microsoft.
 - ⚡ Love to read, write, and photograph.
 
